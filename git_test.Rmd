@@ -12,3 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 Hi partner!
 
 Hi Michelle- sorry this is taking me awhile
+
+No worries! I am new to this too but we are all learning!
